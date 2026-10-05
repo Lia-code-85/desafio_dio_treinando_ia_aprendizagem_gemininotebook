@@ -1,0 +1,2 @@
+# desafio_dio_treinando_ia_aprendizagem_gemininotebook
+Desafio DIO Treinando IA Aprendizage Gemini Notebook
